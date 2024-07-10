@@ -1,0 +1,19 @@
+{
+  "Data": {
+    "devices": {
+      "kev": false
+    },
+    "needed": true
+  },
+  "devices-connected": 0,
+  "error": {
+    "error1": "connection-error-to-project-xyborg"
+  },
+  "user": {
+    "DOB": "07-03-2002",
+    "father": "Ajay Kumar Sharma",
+    "lastname": "Sharma",
+    "mother": "Pratibha Sharma",
+    "name": "Dhruv"
+  }
+}
